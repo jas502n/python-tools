@@ -1,7 +1,8 @@
 
 ### 利用python脚本爬1920 x 1080p 壁纸
 
-```use:
+```
+use:
 
 python wallpaper.py
 
