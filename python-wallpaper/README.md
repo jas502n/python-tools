@@ -5,6 +5,7 @@
 
 python wallpaper.py
 
+爬取网站： https://wallpaperscraft.com/all/page
 
 ******************************************************
 
